@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahimtalukder
 - 👀 I’m interested in software development and on AI
-- 🌱 I’m currently learning BSc in CSE
+- 🌱 I’m currently student of BSc in CSE
 - 📫 How to reach me by mail "mahim4163@gmail.com"
 
 <!---
